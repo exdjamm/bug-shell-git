@@ -8,7 +8,7 @@ No shell, coloque a config local com os valores do outro usuario:
 - user.name
 - user.email
 
-Faça o commit
+Faça o commit.
 
 ## O que acredito que seja
 O servidor git não tem uma forma de teste se quem está fazendo o commit é o mesmo da informação passada.
